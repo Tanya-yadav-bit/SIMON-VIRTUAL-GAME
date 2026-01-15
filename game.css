@@ -1,0 +1,47 @@
+body{
+    text-align:center;
+    background-color: antiquewhite;
+    background-image: url("game2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: aliceblue;
+}
+
+.btn{
+    height:200px;
+    width: 200px;
+    border-radius: 20%;
+    border:10px solid black;
+    margin:2rem;
+}
+
+.btn-container{
+    display:flex;
+    justify-content: center;
+}
+
+.yellow{
+    background-color: rgb(249, 162, 76);
+}
+
+.red{
+    background-color: rgb(253, 102, 102) ;
+}
+
+.green{
+    background-color: rgb(54, 132, 160);
+}
+
+.purple{
+    background-color: rgb(90, 103, 218);
+}
+
+.flash{
+    background-color: rgb(200, 227, 252);
+}
+
+.userflash{
+     background-color: rgb(58, 227, 134);
+}
+
