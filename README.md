@@ -47,7 +47,7 @@ git clone https://github.com/Tanya-yadav-bit/SIMON-VIRTUAL-GAME.git
 
   
 2. Navigate into the folder:
-3. 
+  
 3. Open the `index.html` file in your browser.
 
 That’s it! No additional setup required.
